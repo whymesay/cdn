@@ -1,0 +1,21 @@
+{
+  "blacklist": [],
+  "custom": {
+    "discord.com": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.111 Safari/537.36",
+    "challenges.cloudflare.com": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.111 Safari/537.36"
+  },
+  "mode": "custom",
+  "parser": {},
+  "protected": [
+    "google.com/recaptcha",
+    "gstatic.com/recaptcha",
+    "accounts.google.com",
+    "accounts.youtube.com",
+    "gitlab.com/users/sign_in"
+  ],
+  "remote-address": "",
+  "userAgentData": true,
+  "whitelist": [],
+  "json-guid": "68d1519d-2c7a-4d9a-8ad8-66a94cda570e",
+  "json-forced": false
+}
