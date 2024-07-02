@@ -10,8 +10,7 @@
     "google.com/recaptcha",
     "gstatic.com/recaptcha",
     "accounts.google.com",
-    "accounts.youtube.com",
-    "gitlab.com/users/sign_in"
+    "accounts.youtube.com"
   ],
   "remote-address": "https://raw.githubusercontent.com/whymesay/cdn/main/UserAgent-Switcher/configuration.json",
   "userAgentData": true,
