@@ -1,7 +1,7 @@
 {
   "blacklist": [],
   "custom": {
-    "discord.com,faucet.nubit.org,gleam.io,caldera.xyz,chain.link,x.com,twitter.com": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.111 Safari/537.36",
+    "discord.com,faucet.nubit.org,gleam.io,caldera.xyz,chain.link,x.com,twitter.com,plumenetwork.xyz": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.111 Safari/537.36",
     "challenges.cloudflare.com": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.111 Safari/537.36"
   },
   "mode": "custom",
