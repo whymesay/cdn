@@ -9,11 +9,12 @@
     "google.com/recaptcha",
     "gstatic.com/recaptcha",
     "accounts.google.com",
-    "accounts.youtube.com"
+    "accounts.youtube.com",
+    "cloudflare.com"
   ],
   "remote-address": "https://raw.githubusercontent.com/whymesay/cdn/main/UserAgent-Switcher/configuration.json",
   "userAgentData": true,
   "whitelist": [],
-  "json-guid": "68d1519d-2c7a-4d9a-8ad8-66a94cda5704",
+  "json-guid": "68d1519d-2c7a-4d9a-8ad8-66a94cda5708",
   "json-forced": false
 }
